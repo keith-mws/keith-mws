@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @keith-mws
-- 👀 I’m interested in Wordpress, Prestashop Magento and other PHP based CMS 
-- 📫 reach me by mail keith@mywebstrategies.com
+👋 Hi, I’m @keith-mws, CTO of My Web Strategies, a small digital strategy agency in France. 
+📫 Reach me by mail keith@mywebstrategies.com
 
